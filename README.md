@@ -1,4 +1,4 @@
-# Art-Gallery
+# My ArtGallery
 
 This is a web application built with React. It is designed for art enthusiasts and artists alike. This platform allows artists to showcase their artwork and art lovers to discover, appreciate, and review various art pieces.
 
