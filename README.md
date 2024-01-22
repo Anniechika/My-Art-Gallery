@@ -18,3 +18,5 @@ Authentication: JWT for secure authentication
 
 
 
+# My notes 
+- This is a practice project that aims to practice my React skills. I used a variety of React Hooks to build the front end, and I learned a lot from building this project. ^^ Please Feel free to give me feedback!
