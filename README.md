@@ -1,6 +1,6 @@
 # My ArtGallery
 
-This is a web application built with React. It is designed for art enthusiasts and artists alike. This platform allows artists to showcase their artwork and art lovers to discover, appreciate, and review various art pieces.
+This is a basic MERN application for displaying arts/practice purpose. It is designed for art enthusiasts and artists alike. This platform allows artists to showcase their artwork and art lovers to discover, appreciate, and review various art pieces.
 
 # Features
 Artwork Display: Browse a wide range of artworks across different styles and genres.
