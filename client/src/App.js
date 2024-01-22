@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { useEffect } from "react";
 import { Navbar, Sidebar, Footer, Loading } from "./components";
 import {
@@ -18,7 +18,7 @@ import { useUserContext } from "../src/context/user_context";
 function App() {
   const { user } = useUserContext();
 
-  // Set up router
+  // Set up router with HashRouter
   return (
     <>
       <Router>
