@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "homepage": "https://Anniechika.github.io/My-Art-Gallery",
   "description": "",
   "main": "server.js",
   "scripts": {
